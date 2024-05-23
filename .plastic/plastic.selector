@@ -1,0 +1,4 @@
+repository "Juego_Granja_2@Universidad_de_Cundinamarca@cloud"
+  path "/"
+    br "/main"
+    co "/main"
